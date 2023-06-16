@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #aaa;
+}
+h1,h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    color: greenyellow;
+}
+nav{
+    margin: 0px;
+    margin-top: 0px;
+    margin-left: 70px;
+    width: 300px;
+}
+table{
+    margin-left: 50px;
+}
+td{
+    padding: 10px;
+}
+.about1{
+    margin: 30px;
+    margin-top: 0px;
+    margin-left: 200px;
+}
+p{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    margin-right: 0px;
+}
